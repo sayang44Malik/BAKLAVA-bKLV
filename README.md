@@ -41,3 +41,13 @@ Yıldızla, forkla, PR gönder! Topluluğumuza katılmak için bizi takip et!
 ## Lisans
 
 MIT License
+---
+
+## İletişim ve Topluluk
+
+- 🌐 Web Sitesi: [https://baklavacoin.io](https://baklavacoin.io)
+- 🐦 Twitter: [@BaklavaCoin](https://twitter.com/BaklavaCoin)
+- 💬 Telegram: [t.me/BaklavaCoin](https://t.me/BaklavaCoin)
+- 📄 Whitepaper: [docs/whitepaper.md](docs/whitepaper.md)
+- 📊 Tokenomics: [docs/tokenomics.md](docs/tokenomics.md)
+- 🔐 Kontrat: [contracts/BaklavaToken.sol](contracts/BaklavaToken.sol)
