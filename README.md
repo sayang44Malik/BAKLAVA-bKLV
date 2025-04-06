@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/logo.png" width="150" alt="Baklava Coin logo" />
-</p># Baklava Coin (bKLV)
+ <p align="center">
+  <img src="logo (3).png" width="150" alt="Baklava Coin logo" />
+</p>         # Baklava Coin (bKLV)
 
 **Baklava Coin**, kültürümüzden ilham alan, topluluk temelli ve şeffaf bir kripto para birimidir.  
 Token sembolü: `bKLV`
